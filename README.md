@@ -1,6 +1,6 @@
 # Open Source Audit: Linux Kernel
-**Student Name:** [SATHVIK NETTEM ]  
-**Registration Number:** 24MIP10171  
+**Student Name:** [S SAI SANJAY ]  
+**Registration Number:** 24MIM10168  
 **Software Chosen:** Linux Kernel
 
 ## Project Description
